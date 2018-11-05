@@ -1,7 +1,2 @@
-# 04se.github.io 
-Welcome to 04se.github.io
-lucipher
-04se@163.com
-
-
+# 笃行致远 
 [git](https://04se.github.io/git)
