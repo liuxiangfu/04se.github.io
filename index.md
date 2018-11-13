@@ -1,7 +1,7 @@
 **04SE ON MY WAY**
 
-- Small/Simple is beautiful.
-- Make each program do one thing and do it well.
+- __Small/Simple is beautiful.__
+- __Make each program do one thing and do it well.__
 
 
 
