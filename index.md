@@ -1,4 +1,4 @@
-# FINTECK ON MY WAY
+# 04SE ON MY WAY
 
 # 基础设施(Infrastructure)
 ## 版本管理
