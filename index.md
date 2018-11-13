@@ -3,14 +3,14 @@
 # 基础设施(Infrastructure)
 
 ## 版本管理(Version control)
-### [git](https://04se.github.io/git)
+### [Git](https://04se.github.io/git)
 - Git--distributed-is-the-new-centralized
 - Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 - Git is easy to learn and has a tiny footprint with lightning fast performance. It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with features like cheap local branching, convenient staging areas, and multiple workflows.
 -------
 
 ## 应用容器(Application Container)
-### [docker](http://www.docker.org.cn/)
+### [Docker](http://www.docker.org.cn/)
 - docker是一个开源的软件部署解决方案；
 - docker也是轻量级的应用容器框架；
 - docker可以打包、发布、运行任何的应用。
