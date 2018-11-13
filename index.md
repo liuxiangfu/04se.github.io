@@ -18,11 +18,12 @@
 ## [Redmine](http://www.redmine.org/)
 - Redmine is a **flexible** project management web application. Written using the Ruby on Rails framework, it is cross-platform and cross-database.
 - Redmine is open source and released under the terms of the GNU General Public License v2 (GPL).
+
 ## [Redmine+Agile](https://www.redmineup.com/pages/plugins/agile)
 - Apply the best Agile practices in your projects with Redmine
 
 ## 持续集成（Continuous Integration）
-## [jenkins](https://www.w3cschool.cn/jenkins/)
+### [Jenkins](https://www.w3cschool.cn/jenkins/)
 Jenkins是一个开源的持续集成的服务器，Jenkins开源帮助我们自动构建各类项目。Jenkins强大的插件式，使得Jenkins可以集成很多软件，可能帮助我们持续集成我们的工程项目。
 
 ## 缺陷跟踪（Bug Tracking)
