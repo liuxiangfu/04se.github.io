@@ -1,5 +1,10 @@
 **04SE ON MY WAY**
 
+- Small/Simple is beautiful.
+- Make each program do one thing and do it well.
+
+
+
 # 基础设施(Infrastructure)
 
 ## 版本管理(Version control)
