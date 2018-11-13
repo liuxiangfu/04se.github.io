@@ -2,10 +2,10 @@
 
 - __Small/Simple is beautiful.__
 - __Make each program do one thing and do it well.__
-
-
-================
-
+  
+  
+  
+  
 # Infrastructure(基础设施)
 
 ## Version control(版本管理)
