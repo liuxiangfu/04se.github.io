@@ -7,3 +7,8 @@
 # Thread Dump Viewer Overview
 - Thread dump viewer is a powerful tool for thread dump analysis. Opens thread dumps from Sun JDK for Windows and Solaris, HP JDK and IBM JDK for Windows, Linux and AIX.
 - [https://sourceforge.net/projects/tdv/postdownload](https://sourceforge.net/projects/tdv/postdownload)
+
+
+# Python dev guide
+-
+-[https://devguide.python.org](https://devguide.python.org)
