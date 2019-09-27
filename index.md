@@ -26,7 +26,7 @@
 -------
 ## [Zookeeper]()
 - [5分钟让你了解 ZooKeeper 的功能和原理 - WeiJiFeng_的博客 - CSDN博客](https://blog.csdn.net/WeiJiFeng_/article/details/79775738)
-- [深入浅出Zookeeper（一） Zookeeper架构及FastLeaderElection机制 - 技术世界 - CSDN博客(https://blog.csdn.net/habren/article/details/78647854)
+- [深入浅出Zookeeper（一） Zookeeper架构及FastLeaderElection机制 - 技术世界 - CSDN博客](https://blog.csdn.net/habren/article/details/78647854)
 
 # Project Management(项目管理)
 ## [Redmine](http://www.redmine.org/)
